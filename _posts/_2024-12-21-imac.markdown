@@ -1,0 +1,40 @@
+---
+layout: post
+title: iMac 21"
+tags: venda computador
+---
+Situação: disponível
+
+Preço: ~~R$ 3200~~ R$ 2800
+
+Especificações no site oficial: [apple iMac 21" final de 2013](https://support.apple.com/pt-br/111967)
+
+Descrição:
+- iMac
+- Tamanho: 21" (1920 x 1080)
+- Ano: final de 2013
+- Conexões: 
+  - Slot para cartão SDXC
+  - Quatro portas USB 3 (compatíveis com USB 2)
+  - Duas portas Thunderbolt
+  - Saída Mini DisplayPort compatível com DVI, VGA e DVI dual link (adaptadores vendidos separadamente)
+  - Gigabit Ethernet 10/100/1000BASE-T (conector RJ-45)
+  - Slot para cabo de segurança Kensington
+- Processador: 2,7GHz Intel Core i5 Quad-Core
+- Gráficos: Intel Iris Pro 1536 MB
+- Memória: 8 GB 1600 MHz DDR3 (2 memórias de 4 GB cada)
+- Armazenamento: SSD 480 GB
+- MacOS: Catalina 10.15.7
+
+Características:
+- o cabo de força é o padrão EUA. 2 pinos chatos.
+- troquei o armazenamento de um HD de 1TB por um SSD de 480 GB
+- troquei a pasta térmica em 2020
+
+O que vem:
+- iMac da descrição
+- caixa original do iMac, mouse e teclado
+- cabo energia original do padrão EUA. 2 pinos chatos
+- teclado padrão americano original
+- magic mouse original
+
