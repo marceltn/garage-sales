@@ -23,8 +23,9 @@ locale: pt-BR
 email:  fluted-gangly76@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   Coisas à venda ou doações
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+domain: ""
+baseurl: ""
+url: ""
 # twitter_username: jekyllrb
 # github_username:  jekyll
 date_format: "%Y-%b-%d"
