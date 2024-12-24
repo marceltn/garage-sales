@@ -31,14 +31,13 @@ O que vem:
 
 Fotos:
 
-![](/assets/mbp01.JPG)
-![](/assets/mbp02.JPG)
-![](/assets/mbp03.JPG)
-![](/assets/mbp04.JPG)
-![](/assets/mbp05.JPG)
-![](/assets/mbp06.JPG)
-![](/assets/mbp07.JPG)
-![](/assets/mbp08.JPG)
+![](/assets/mbp01.jpg)
+![](/assets/mbp02.jpg)
+![](/assets/mbp03.jpg)
+![](/assets/mbp04.jpg)
+![](/assets/mbp05.jpg)
+![](/assets/mbp06.jpg)
+![](/assets/mbp07.jpg)
+![](/assets/mbp08.jpg)
 na foto, caixa da bateria que troquei e a bateria original.
-![](/assets/mbp.mov)
 
