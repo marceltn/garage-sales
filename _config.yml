@@ -29,6 +29,7 @@ url: ""
 # twitter_username: jekyllrb
 # github_username:  jekyll
 date_format: "%Y-%b-%d"
+google_tagmanager: G-8M72WDME07
 
 # Build settings
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
