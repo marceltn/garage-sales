@@ -3,7 +3,7 @@ layout: post
 title: Monitor Dell 27"
 tags: venda computador
 ---
-Situação: disponível
+Situação: vendido
 
 Preço: ~~R$ 2300~~ R$ 1500
 
