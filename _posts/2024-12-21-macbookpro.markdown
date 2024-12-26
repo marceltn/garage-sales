@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Macbook Pro 13"
-tags: venda computador
+tags: disponivel venda computador
 ---
 Situação: disponível
 

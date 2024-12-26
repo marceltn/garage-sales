@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Monitor Dell 27"
-tags: venda computador
+tags: vendido computador
 ---
 Situação: vendido
 

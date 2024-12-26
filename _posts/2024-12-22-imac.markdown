@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iMac 21"
-tags: venda computador
+tags: disponivel venda computador
 ---
 Situação: disponível
 
