@@ -5,7 +5,7 @@ tags: vendido computador
 ---
 Situação: vendido
 
-Preço: ~~R$ 2300~~ R$ 1500
+Preço: R$ 2300
 
 ## Dell monitor
 
